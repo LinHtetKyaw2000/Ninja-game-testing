@@ -1,0 +1,22 @@
+{
+  "name": "Shadow Oath Ninja Game",
+  "short_name": "ShadowOath",
+  "start_url": "./ninja_story_game.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080a12",
+  "theme_color": "#101326",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
